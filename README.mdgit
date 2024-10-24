@@ -1,0 +1,1 @@
+"# Tanushri---portfolio"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/tanu-gv29/Tanushri---portfolio.gitgit push -u origin main
